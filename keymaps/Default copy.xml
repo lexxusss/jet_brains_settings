@@ -1,0 +1,57 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="Arrangement.Rule.Add">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="Compare.SameVersion">
+    <keyboard-shortcut first-keystroke="shift meta alt k" />
+  </action>
+  <action id="CopyElement">
+    <keyboard-shortcut first-keystroke="f5" />
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
+  <action id="FileChooser.NewFolder" />
+  <action id="FindNext" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="ctrl alt n" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+  <action id="Git.Stash">
+    <keyboard-shortcut first-keystroke="shift meta semicolon" />
+  </action>
+  <action id="Git.Unstash">
+    <keyboard-shortcut first-keystroke="shift meta quote" />
+  </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta l" />
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+  <action id="IntroduceConstant" />
+  <action id="MaximizeToolWindow" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="NewElementSamePlace" />
+  <action id="NewScratchFile" />
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="RecentProjectListGroup">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
+  <action id="RemoteHost.NewRemoteItem">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+</keymap>
