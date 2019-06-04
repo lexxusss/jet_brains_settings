@@ -6,6 +6,10 @@
           <option name="url" value="http://gogs.underdock-departments.com:3000" />
           <option name="userName" value="lexxusss" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev.azure.com" />
+          <option name="userName" value="growmagick" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
