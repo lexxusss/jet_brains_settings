@@ -42,8 +42,11 @@
   <action id="MaximizeToolWindow" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="alt n" />
   </action>
-  <action id="NewElementSamePlace" />
+  <action id="NewElementSamePlace">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
   <action id="NewScratchFile" />
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="meta o" />
