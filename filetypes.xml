@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="UserInterface.php" type="PHP" />
       <mapping pattern="payment.php" type="PLAIN_TEXT" />
+      <mapping pattern=".env_laravel" type="PLAIN_TEXT" />
       <mapping ext="bson" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
