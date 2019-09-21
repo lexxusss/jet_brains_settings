@@ -10,6 +10,10 @@
           <option name="url" value="http://dev.azure.com" />
           <option name="userName" value="growmagick" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="lexxusss" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
