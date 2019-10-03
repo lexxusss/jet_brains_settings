@@ -16,5 +16,6 @@
     <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.blade.php</mask>
+    <mask>*.json</mask>
   </component>
 </application>
