@@ -10,6 +10,7 @@
       <mapping pattern=".env_laravel" type="PLAIN_TEXT" />
       <mapping pattern="phpunit" type="PLAIN_TEXT" />
       <mapping ext="sock" type="PLAIN_TEXT" />
+      <mapping ext="sqlite3" type="PLAIN_TEXT" />
       <mapping ext="bson" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
