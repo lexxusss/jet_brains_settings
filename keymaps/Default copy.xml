@@ -18,6 +18,9 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
     <keyboard-shortcut first-keystroke="ctrl alt n" />
   </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="shift meta b" />
+  </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
@@ -37,6 +40,10 @@
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta l" />
     <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+  <action id="GotoTypeDeclaration">
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+    <mouse-shortcut keystroke="shift meta button1" />
   </action>
   <action id="IntroduceConstant" />
   <action id="MaximizeToolWindow" />
