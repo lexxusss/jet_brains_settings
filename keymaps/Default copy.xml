@@ -13,7 +13,9 @@
     <keyboard-shortcut first-keystroke="f5" />
     <keyboard-shortcut first-keystroke="ctrl alt c" />
   </action>
-  <action id="CopyReference" />
+  <action id="CopyReference">
+    <keyboard-shortcut first-keystroke="meta alt c" />
+  </action>
   <action id="FileChooser.NewFolder" />
   <action id="FindNext" />
   <action id="Generate">
