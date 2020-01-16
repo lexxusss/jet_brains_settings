@@ -12,6 +12,7 @@
     <keyboard-shortcut first-keystroke="f5" />
     <keyboard-shortcut first-keystroke="ctrl alt c" />
   </action>
+  <action id="CopyReference" />
   <action id="FileChooser.NewFolder" />
   <action id="FindNext" />
   <action id="Generate">
@@ -20,6 +21,13 @@
   </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift meta b" />
+    <keyboard-shortcut first-keystroke="meta alt b" />
+  </action>
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="shift meta alt c" />
+  </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="meta alt f" />
   </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift meta l" />
@@ -37,6 +45,9 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="meta alt button1" />
+  </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta l" />
     <keyboard-shortcut first-keystroke="meta g" />
@@ -46,6 +57,7 @@
     <mouse-shortcut keystroke="shift meta button1" />
   </action>
   <action id="IntroduceConstant" />
+  <action id="IntroduceField" />
   <action id="MaximizeToolWindow" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
