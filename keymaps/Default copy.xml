@@ -2,6 +2,7 @@
   <action id="Arrangement.Rule.Add">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="ChangesView.ShelveSilently" />
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
@@ -59,6 +60,7 @@
   <action id="IntroduceConstant" />
   <action id="IntroduceField" />
   <action id="MaximizeToolWindow" />
+  <action id="MethodHierarchy" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
     <keyboard-shortcut first-keystroke="alt n" />
@@ -78,5 +80,9 @@
   </action>
   <action id="SynchronizeCurrentFile">
     <keyboard-shortcut first-keystroke="ctrl meta y" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="shift meta h" />
+    <keyboard-shortcut first-keystroke="meta alt h" />
   </action>
 </keymap>
