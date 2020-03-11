@@ -83,8 +83,10 @@
   <action id="SynchronizeCurrentFile">
     <keyboard-shortcut first-keystroke="ctrl meta y" />
   </action>
+  <action id="Vcs.ShowHistoryForBlock">
+    <keyboard-shortcut first-keystroke="meta alt h" />
+  </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="shift meta h" />
-    <keyboard-shortcut first-keystroke="meta alt h" />
   </action>
 </keymap>
