@@ -13,11 +13,7 @@
           <configuration_options>
             <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.3/7.3.15/share/php@7.3/pear" />
           </configuration_options>
-          <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.7.0">
-              <debug_extensions />
-            </debugger_info>
-          </debuggers>
+          <debuggers />
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
@@ -77,7 +73,6 @@
             <extension name="tidy" />
             <extension name="tokenizer" />
             <extension name="wddx" />
-            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlrpc" />
