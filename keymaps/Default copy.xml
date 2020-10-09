@@ -98,4 +98,7 @@
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="shift meta h" />
   </action>
+  <action id="WebServicesPlugin.CreateRESTClient">
+    <keyboard-shortcut first-keystroke="shift meta alt p" />
+  </action>
 </keymap>
