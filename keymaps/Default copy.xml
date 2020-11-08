@@ -6,6 +6,9 @@
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="CodeCleanup">
+    <keyboard-shortcut first-keystroke="ctrl alt x" />
+  </action>
   <action id="Compare.SameVersion">
     <keyboard-shortcut first-keystroke="shift meta alt k" />
   </action>
