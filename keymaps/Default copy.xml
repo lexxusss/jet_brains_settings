@@ -84,6 +84,7 @@
   </action>
   <action id="RecentProjectListGroup">
     <keyboard-shortcut first-keystroke="shift meta o" />
+    <keyboard-shortcut first-keystroke="shift meta o" second-keystroke="shift meta p" />
   </action>
   <action id="RemoteHost.NewRemoteItem">
     <keyboard-shortcut first-keystroke="ctrl enter" />
