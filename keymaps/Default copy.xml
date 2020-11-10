@@ -69,6 +69,9 @@
     <keyboard-shortcut first-keystroke="ctrl meta c" />
   </action>
   <action id="IntroduceField" />
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="MaximizeToolWindow" />
   <action id="MethodHierarchy" />
   <action id="NewElement">
