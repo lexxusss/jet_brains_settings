@@ -1,0 +1,10 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="MVS-499-stage" uuid="b272a960-a8e3-49ce-8f9c-55b0264256f2">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://ec2-52-31-94-195.eu-west-1.compute.amazonaws.com:5432/d6577pqg1e1q0f</jdbc-url>
+    </data-source>
+  </component>
+</application>
