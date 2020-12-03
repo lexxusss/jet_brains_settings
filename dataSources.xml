@@ -12,5 +12,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5434/main-db</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="bse-db@localhost" uuid="3c2cb90e-b570-495c-b112-699cc426a9f8">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5431/bse-db</jdbc-url>
+    </data-source>
   </component>
 </application>
