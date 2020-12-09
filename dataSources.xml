@@ -18,5 +18,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5431/bse-db</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="postgres@production_AJ" uuid="91311d26-4591-4dbd-83a6-64d93b113d5b">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://ec2-54-155-67-76.eu-west-1.compute.amazonaws.com:5432/d5m5rlb14u6v21</jdbc-url>
+    </data-source>
   </component>
 </application>
