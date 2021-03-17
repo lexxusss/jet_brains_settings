@@ -6,6 +6,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="kt" type="PLAIN_TEXT" />
+      <mapping ext="numbers" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
