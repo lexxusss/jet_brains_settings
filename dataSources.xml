@@ -30,5 +30,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://ec2-54-211-30-19.compute-1.amazonaws.com:5432/dacqo59ie1lbii</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="Sandbox@CHALLENGES" uuid="d2b3a18e-f68f-465b-8d77-4ec729583c51">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://ec2-54-155-226-153.eu-west-1.compute.amazonaws.com:5432/d16r0r3cpkj5ld</jdbc-url>
+    </data-source>
   </component>
 </application>
