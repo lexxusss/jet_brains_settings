@@ -6,12 +6,6 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://ec2-46-137-84-140.eu-west-1.compute.amazonaws.com:5432/dnere1qkfe9gt</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="main-db@localhost" uuid="17287452-5266-4d75-ad4d-c1cbf1cb2fc6">
-      <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5434/main-db</jdbc-url>
-    </data-source>
     <data-source source="LOCAL" name="bse-db@localhost" uuid="3c2cb90e-b570-495c-b112-699cc426a9f8">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
